@@ -18,7 +18,7 @@
   },
   "license": "MIT",
   "version": "0.6.8",
-  "main": "./lib/loglevel-plugin-remote",
+  "main": "index.js",
   "babel": {
     "presets": [
       [
